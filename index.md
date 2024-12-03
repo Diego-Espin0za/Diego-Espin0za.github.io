@@ -4,7 +4,7 @@ This is my home page! My name is Diego Espinoza and I am a student at [Cal State
 
 ## Computer Science Projects
 
-My GitHub page is https://github.com/Diego-Espin0za.
+My GitHub page is [Here] (https://github.com/Diego-Espin0za/).
 
 ### CPSC 120L
 
