@@ -1,10 +1,13 @@
+# Hello World
 
-# Diego Espinoza's Portfolio 
+This is my home page! My name is Diego Espinoza and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer Science.
 
-Hello I am currently a First year Computer Science at CSUF I plan on graduating in 2028.
- 
-## Favorite CPSC 120L Labs 
-s
+## Computer Science Projects
+
+My GitHub page is https://github.com/Diego-Espin0za.
+
+### CPSC 120L
+
 * Lab 6, Part 1 
 
     I liked this lab a lot because we were able to create one of my favorite card games. This lab made us use a lot of if and else statements which helped me better understand the usage of if statements.
